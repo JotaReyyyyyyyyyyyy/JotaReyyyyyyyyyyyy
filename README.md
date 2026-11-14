@@ -6,7 +6,6 @@ Estudiante de cuarto año de Ingeniería Civil Industrial en la Universidad Téc
 
 | Proyecto | Descripción |
 |---|---|
-| [Prospección B2B con n8n](https://github.com/JotaReyyyyyyyyyyyy/prospeccion-b2b-n8n) | Busca empresas que podrían ser clientes, prepara borradores de correo con revisión humana en Google Sheets, hace seguimiento y entrega un reporte semanal en PDF por Telegram. |
 | [Jota Digital](https://github.com/JotaReyyyyyyyyyyyy/jotadigital) | Sitio de servicios para pequeños negocios: tarjetas NFC, códigos QR y presencia digital. |
 
 ### Ramos
